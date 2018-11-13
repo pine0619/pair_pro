@@ -18,6 +18,8 @@ public class ChatBot {
         this.name = name;
     }
 
-    pub
+    public String getName(){
+        return this.name;
+    }
 
 }
