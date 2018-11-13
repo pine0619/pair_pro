@@ -14,4 +14,10 @@ public class ChatBot {
         System.out.println("はじめまして" + this.name + "です。よろしくおねがいします。");
     }
 
+    public void setName(String name){
+        this.name = name;
+    }
+
+    pub
+
 }

@@ -5,8 +5,8 @@ public class Main {
         ChatBot bot2 = new ChatBot("あざま");
         bot1.greeting();
         bot2.greeting();
-        ChatBot bot3 = new ChatBot("たいち");
-        bot3.greeting();
+        bot2.setName("たかと");
+        bot2.greeting();
 
     }
 }
